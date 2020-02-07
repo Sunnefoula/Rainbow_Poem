@@ -6,4 +6,6 @@ red
 yellow
 green
 
+it is like the unicorn 
+
 these are the colours of the rainbow
